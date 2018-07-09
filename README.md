@@ -1,2 +1,0 @@
-# ReactWebsiteOne
-Created with CodeSandbox
